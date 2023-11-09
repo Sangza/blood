@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314127095947",
+    "project_id": "mbbs-4f889",
+    "storage_bucket": "mbbs-4f889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314127095947:android:be378e39bacfaf98519c8e",
+        "android_client_info": {
+          "package_name": "com.example.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314127095947-707smj8r6e62b7478ag3rloi8us0mcel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1iGl0jeCLmWxWqapxR4C0dx5RmreuUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314127095947-707smj8r6e62b7478ag3rloi8us0mcel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
